@@ -1,0 +1,29 @@
+
+</br>
+We are researchers from Zhejiang University, China, who are studying the apps' UI issues in the user reviews. 
+</br>
+We sincerely appreciate your open-source app project in the GitHub. Hence, we would like to invite you to participate in our survey. 
+</br>
+The survey will ask you the way you identify UI issues in the user reviews. Besides, we give you 4 categories of UI issues and let you decide whether they are useful or not. 
+</br>
+The valuable information you provide will guide for software engineering researchers about app development. 
+</br>
+The questionnaire only contains 20 questions, which will only take approx. 5-8 minutes. Thank you for your help!
+</br>
+This survey is anonymous. No personal information is collected. And it would be great if you have experience in solidity UI designing. 
+</br>
+As an appreciation of your time and valuable inputs, we will give out 50 USD Amazon vouchers to two randomly selected participants. If you want to enter the raffle, kindly enter your email at the end of the survey. Participation in the raffle is completely voluntary. 
+</br>
+The link of the survey are:
+</br>
+Chinese Version: https://www.wjx.cn/jq/90230487.aspx
+</br>
+English Version: https://forms.gle/zePWUmzcVxNyQM878
+</br>            
+Please contact us if you have any questions related to the study :)
+</br>
+Thank you very much and have a great week!
+</br>
+Best Regards,
+</br>
+Qiuyuan Chen
